@@ -1,0 +1,7 @@
+CLIENT
+* Creact React App with Vite
+    npm create vite@latest client > React > Javascript + SWC > cd client > npm install > npm run dev
+
+* Install Tailwind CSS > Configure your template paths > Add the Tailwind directives to your CSS
+    npm install -D tailwindcss postcss autoprefixer
+    npx tailwindcss init -p
